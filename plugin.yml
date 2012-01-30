@@ -1,0 +1,5 @@
+name: AntiGrief
+main: me.everlong.AntiGrief.AntiGrief
+version: 1.0
+description: >
+             A plugin to prevent griefing.
